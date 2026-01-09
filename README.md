@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/jacobslater"><img src="https://api.daily.dev/devcards/v2/ZlToKxsLarob7RMMCfi8r.png?type=wide&r=r34" width="652" alt="Jacob Slater's Dev Card"/></a>
 
 <!--
 **s1at3r/s1at3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

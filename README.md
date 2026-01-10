@@ -55,8 +55,10 @@ I'm a passionate tech leader and engineer who loves creating elegant solutions t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1at3r&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1at3r&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1at3r&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/s1at3r)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1at3r&layout=compact&langs_count=8&theme=radical)](https://github.com/s1at3r)
+
 </div>
 
 ---
